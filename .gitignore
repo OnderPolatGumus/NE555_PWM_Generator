@@ -1,0 +1,71 @@
+# === Altium Designer ===
+
+# Output / Generated Files
+*.OutJob
+Project Outputs/
+Project Logs/
+Project Logs for *
+History/
+__Previews/
+
+# CAM / Fabrication Outputs
+*.zip
+*.rar
+*.7z
+*.cam
+*.gbr
+*.GBL
+*.GTL
+*.GTO
+*.GTS
+*.DRL
+*.TXT
+*.REP
+
+# Simulation
+*.raw
+*.log
+
+# Backup & Autosave
+*.bak
+*.Backup
+*.OldVersions
+*.Autosave
+*.SchDocPreview
+*.PcbDocPreview
+
+# Workspace / User-specific
+*.DsnWrk
+*.PrjScr
+*.SchDocPreview
+*.PcbDocPreview
+*.DbLink
+*.Opf
+*.apr
+*.extrep
+
+# Compiled / Cache
+*.PcbDoc.htm
+*.SchDoc.htm
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.PrjPcbLogs
+
+# Altium 365 / Cache
+*.A365
+*.DSStore
+*.cache
+*.Cache
+*.ddb
+
+# System
+Thumbs.db
+.DS_Store
+
+# Python (sen kullanıyorsun diye ekledim)
+__pycache__/
+*.pyc
+
+# KiCad vs karışmasın diye (opsiyonel)
+*.kicad_prl
+*.kicad_pro-bak
